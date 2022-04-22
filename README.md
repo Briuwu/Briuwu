@@ -2,6 +2,7 @@
 ---
 <div id="header" align="center">
   <img src="https://github.com/Briuwu7474/Briuwu7474/blob/main/inagif.gif" />
+  <p>WAH~</p>
 </div>
 
 ---

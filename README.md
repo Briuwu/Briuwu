@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hewwo~ there 👋 I'm Briuwu, and welcome to my GitHub~ :blush:
+---
 
 <!--
 **Briuwu7474/Briuwu7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

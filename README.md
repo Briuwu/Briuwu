@@ -1,5 +1,7 @@
-### Hewwo~ there 👋 I'm Briuwu, and welcome to my GitHub~
----
+<div align="center">
+  <h1>Hewwo~ there 👋 I'm Briuwu, and welcome to my GitHub~</h1>
+</div>
+
 <div id="header" align="center">
   <img src="https://github.com/Briuwu7474/Briuwu7474/blob/main/inagif.gif" />
   <p>WAH~</p>

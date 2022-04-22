@@ -10,7 +10,7 @@ _For now I don't have any_
 
 # 🌱 I’m currently learning:
 <div>
-  <img src="" />
+  <img src="https://github.com/Briuwu7474/Briuwu7474/blob/main/reactgif.gif" width="100px"/>
 </div>
 
 

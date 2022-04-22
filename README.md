@@ -6,18 +6,6 @@
 
 ---
 
-🌱 I’m currently learning:
-<div>
-  <img src="https://github.com/Briuwu7474/Briuwu7474/blob/main/reactgif.gif" width="100px"/>
-</div>
-
----
-
-[![Briuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Briuwu7474)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 <!--
 **Briuwu7474/Briuwu7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

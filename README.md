@@ -9,6 +9,9 @@
 
 ---
 
+[![Briuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Briuwu)](https://github.com/Briuwu)
+
+
 <!--
 **Briuwu7474/Briuwu7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

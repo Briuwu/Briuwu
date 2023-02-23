@@ -5,18 +5,22 @@
 
 <br>
 
-<img align="right" src="https://media.tenor.com/i4pndrxTVGwAAAAC/ninomae-ina.gif" />
+<img align="right" src="https://media.tenor.com/i4pndrxTVGwAAAAC/ninomae-ina.gif" width="300" />
 
+<br>
+<br>
 
-## Plans...
+### Plans
 - 🔭 I’m currently working on becoming a **Web Developer**
 - 🌱 I’m currently learning **React & Nextjs**
 - ✅ Check out my projects at [**Frontend Mentor**](https://www.frontendmentor.io/profile/Briuwu)
 - 🤔 I’m looking for help with **Accessibilities**
 
 <br>
+<br>
+<br>
 
-## Goals...
+## Goals
 - 📑 Learn Next.js framework for building server-side rendering and static web applications.
 - 📑 Improve my JavaScript skills.
 - 📑 Write maintainable and scalable code.

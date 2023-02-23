@@ -5,7 +5,7 @@
 
 <br>
 
-<img align="right" src="https://media.tenor.com/i4pndrxTVGwAAAAC/ninomae-ina.gif" width="300" />
+<img align="right" src="https://github.com/Briuwu/Briuwu/blob/main/inadroolgif.gif" width="320" />
 
 <br>
 <br>

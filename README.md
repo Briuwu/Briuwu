@@ -4,26 +4,26 @@
 #
 
 <br>
-<br>
 
-<img align="right" src="https://media.tenor.com/i4pndrxTVGwAAAAC/ninomae-ina.gif" width="225" />
+<img align="right" src="https://media.tenor.com/i4pndrxTVGwAAAAC/ninomae-ina.gif" />
 
-<br>
 
+## Plans...
 - 🔭 I’m currently working on becoming a **Web Developer**
 - 🌱 I’m currently learning **React & Nextjs**
-- 😄 Pronouns: He/Him
 - ✅ Check out my projects at [**Frontend Mentor**](https://www.frontendmentor.io/profile/Briuwu)
 - 🤔 I’m looking for help with **Accessibilities**
 
 <br>
-<br>
 
-## Goals
+## Goals...
 - 📑 Learn Next.js framework for building server-side rendering and static web applications.
 - 📑 Improve my JavaScript skills.
 - 📑 Write maintainable and scalable code.
 - 📑 Share my knowledge and assist others who are passionate about coding.
+
+<br>
+<br>
 
 <h2>My Skills</h2>
 

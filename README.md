@@ -13,6 +13,7 @@
 ### Plans
 - 🔭 I’m currently working on becoming a **Web Developer**
 - 🌱 I’m currently learning **React & Nextjs**
+- 🖼️ I'm currently improving my Animating & Transition skills using **Framer Motion**
 - ✅ Check out my projects at [**Frontend Mentor**](https://www.frontendmentor.io/profile/Briuwu)
 - 🤔 I’m looking for help with **Accessibilities**
 
@@ -23,6 +24,7 @@
 ## Goals
 - 📑 Learn Next.js framework for building server-side rendering and static web applications.
 - 📑 Improve my JavaScript skills.
+- 📑 Create beautiful animations and transitions
 - 📑 Write maintainable and scalable code.
 - 📑 Share my knowledge and assist others who are passionate about coding.
 

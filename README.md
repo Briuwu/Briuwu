@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Briuwu/Briuwu/blob/main/my-banner.png" alt="Briuwu Banner" width="100%"/>
+</p>
+
 <h1 align="center">👋 Hi! I'm Briuwu (Brian Laurence E. Millonte)</h1>
 <p align="center">
 A passionate <b>Frontend & AI Engineer</b> from Cavite, Philippines 🇵🇭<br>
@@ -34,7 +38,7 @@ Currently working at <b>Prosperna</b> as a Jr. Frontend AI Engineer — building
 
 ---
 
-## 🎯 Goals  
+## 🎯 Goals 
 - 🧑‍🏫 Share knowledge through open-source and community projects  
 - 🧩 Master full-stack AI web app development  
 - 🏡 Achieve personal success with balance, stability, and creativity  

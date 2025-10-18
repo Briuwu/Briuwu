@@ -2,7 +2,7 @@
   <img src="https://github.com/Briuwu/Briuwu/blob/main/my-banner.png" alt="Briuwu Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hi! I'm Briuwu (Brian Laurence E. Millonte)</h1>
+<h1 align="center">👋 Hi! I'm Brian Millonte</h1>
 <p align="center">
 A passionate <b>Frontend & AI Engineer</b> from Cavite, Philippines 🇵🇭<br>
 Currently working at <b>Prosperna</b> as a Jr. Frontend AI Engineer — building smart, scalable, and aesthetic web experiences powered by modern technologies.

@@ -35,7 +35,6 @@ Currently working at <b>Prosperna</b> as a Jr. Frontend AI Engineer — building
 ---
 
 ## 🎯 Goals  
-- 📚 Build and launch an AI-powered education platform (Turo.ai)  
 - 🧑‍🏫 Share knowledge through open-source and community projects  
 - 🧩 Master full-stack AI web app development  
 - 🏡 Achieve personal success with balance, stability, and creativity  
